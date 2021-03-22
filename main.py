@@ -4,4 +4,8 @@ verb1 ="dancing"
 noun3 ="Skrillex"
 adjective1 ="strange"
 adjective2 ="excited"
-print("Today i went to the " + noun1 + ". There were many " + noun2 + " who were " + verb1 + "too " + noun3 ". They all looked very " + adjective1 + ". I was very " + adjective2) 
+noun3 ="vbucks"
+noun4 ="Italy"
+verb2 ="ran"
+adjective3 = "viciously"
+print("Today i went to the " + noun1 + ". There were many " + noun2 + " who were " + verb1 + " too " + noun3 + ". They all looked very " + adjective1 + ". I was very " + adjective2 + ". We went to get " + noun3 + " at " + noun4 + ". After that we all " + verb2 + " " + adjective3 ) 
